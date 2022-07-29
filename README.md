@@ -14,4 +14,4 @@ Music Enjoyment by Visualization & Haptic patterns for DHH (Deaf and Hard-of-Hea
 
 ![alt text](https://github.com/syeminpark/Music_Visualization/blob/a8d0e555a4f5729d001c94ee0ba8ea797f8b2d5c/static/src/images/screenshot/exploration.png?raw=true). 
   
-![alt text](https://github.com/syeminpark/Music_Visualization/blob/a8d0e555a4f5729d001c94ee0ba8ea797f8b2d5c/static/src/images/screenshot/exploration2.png?raw=true)
+![alt text](https://github.com/syeminpark/Music_Visualization/blob/18b12f026cb73a8fa91d35cfdb24f9384596719e/static/src/images/screenshot/exploration2.png?raw=true)
